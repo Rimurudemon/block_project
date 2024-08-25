@@ -13,11 +13,15 @@ The `ResearchFund` smart contract is designed to facilitate funding for research
 - [Usage](#usage)
 - [License](#license)
 
+//add a image of the cot](URL or path to the image)
+
 ## Contract Details
 
 - **Contract Name:** `ResearchFund`
 - **Version:** Solidity ^0.8.0
 - **License:** MIT
+
+![THE Contract](<Screenshot 2024-08-25 145543.png>)
 
 ## Functionality
 
